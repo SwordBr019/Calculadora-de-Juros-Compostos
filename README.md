@@ -1,2 +1,2 @@
 # Calculadora-de-Juros-Compostos
-Uma Aplicação desenvolvida para a realização de cálculos de juros compostos utilizando HTML, CSS, JS
+ Uma aplicação criada usando JS, HTML, CSS para o desenvolvimento de uma calculadora de Juros Compostos
